@@ -1,2 +1,2 @@
-# Complaint-Management-System-Project-IN-Python
+# CMS-Project-IN-Python
 Complaint-Management-System-Project-IN-Python
